@@ -1,0 +1,12 @@
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.Properties.Resources.resources
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.Stock.resources
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\bin\Debug\ControlStock.exe.config
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\bin\Debug\ControlStock.exe
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\bin\Debug\ControlStock.pdb
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.exe
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.pdb
+C:\Users\fabia\OneDrive\Escritorio\ControlStock\ControlStock\obj\Debug\ControlStock.AgregarElementos.resources
